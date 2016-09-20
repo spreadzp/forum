@@ -1,2 +1,2 @@
 # forum
-Forum with tree comment. MEAN stack
+Forum with tree of comments. MEAN stack
